@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1573387173 source:c:\users\anita\fmi\course-1\programming-intro\homework1_final\o1.repeatingdigits\main.cpp
-	<iostream>
-	<limits>
-	<cmath>
-
