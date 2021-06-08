@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573330408 source:c:\users\anita\fmi\course-1\programming-intro\homework1_final\06.target\main.cpp
+	<iostream>
+	<math.h>
+	<limits>
+
